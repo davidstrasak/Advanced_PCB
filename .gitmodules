@@ -1,0 +1,3 @@
+[submodule "udemy_course_source_code"]
+	path = udemy_course_source_code
+	url = https://github.com/futureshocked/KLP-5e-ESP32-sensor-board
